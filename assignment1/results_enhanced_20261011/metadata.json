@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-11",
+  "python": "3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "hashes": {
+    "gomoku_ai.py": "8f8f8fd5db70bf34430037c2f1824b9e094835f66e4b146421fbbefc8bdad522",
+    "experiments.py": "6f73a22efc50bc8766c9c11a38ce4872efe41c1b2aad37ba7203bf0ada2ed6ee",
+    "gomoku_game.py": "f5518918bb1a9201da56a50ef76c9683237e6223e9328fcd06048e8d58991a5e",
+    "random_ai.py": "c2e10de290ac76f0c3fff6989b5cce3141ff932e03d3e15fcc108b029db9d0c6"
+  },
+  "report_before_sha256": "532f76a7c4010f8c60496a1ab53abf1d5b12f551d07964b75249f242833446c6",
+  "command": "python assignment1/experiments.py --time 5 --games 40 --self-games 8 --depth-games 8 --seed 20261008 --output assignment1/results_enhanced_20261011"
+}

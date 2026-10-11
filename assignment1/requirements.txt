@@ -1,0 +1,2 @@
+# Python 3.10+. No third-party packages required.
+# The optional GUI uses tkinter, normally bundled with Windows Python.
